@@ -1,4 +1,4 @@
-// Given variables
+
 const dishData = [
     {
       name: "Italian pasta",
