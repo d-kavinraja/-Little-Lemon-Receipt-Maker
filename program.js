@@ -1,4 +1,3 @@
-
 const dishData = [
     {
       name: "Italian pasta",
